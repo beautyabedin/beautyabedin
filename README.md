@@ -24,7 +24,7 @@ Hi, I'm Beauty Abedin. I have an background in mathematical and statistical. I h
 ## Table Of Contents:
 - [About](#about)
   
-- [Protfolio](#protfolio)
+- [Portfolio](#portfolio)
   
    - MySql projects:
      
@@ -44,7 +44,7 @@ Hi, I'm Beauty Abedin. I have an background in mathematical and statistical. I h
 
 - [Contacts](#contacts)
 
-# Protfolio
+# Portfolio
 In this section I will list data analytics projects briefly describing the technology stack used to solve case
 
 ## Following are my projects in SQL, Python, Power BI & Excel:
@@ -55,7 +55,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 - Review the Data Exploration MySql Script: [Here](https://github.com/beautyabedin/INSTAGRAM-USER-ANALYTICS/blob/main/INSTAGRAM%20CLONE%20EXPLORATORY%20DATA%20ANALYSIS.sql)
 
-- **Presentation:** [Here](https://github.com/beautyabedin/INSTAGRAM-USER-ANALYTICS/blob/main/INSTAGRAM%20USER%20%20ANALYTICS.pdf)
+- Presentation: [Here](https://github.com/beautyabedin/INSTAGRAM-USER-ANALYTICS/blob/main/INSTAGRAM%20USER%20%20ANALYTICS.pdf)
 
 ### Description:
 This project aims to analyze data from an Instagram-like social media platform to uncover insights about user behavior, content performance, and engagement patterns. By leveraging various data analysis techniques, this project provides valuable information to enhance user experience, optimize content strategy, and improve platform features.
@@ -68,7 +68,19 @@ This Project helps to analyze the raw data to create useful insights for marketi
 -- **Hashtag and Keyword Analysis:** Analyze the usage of hashtags and keywords to identify popular trends and topics among users.
 
 ### Skills:
-data analysis.
+
+- Data Manipulation:
+  - SELECT statements: Writing queries to retrieve specific data from relevant tables (users, posts, likes, comments, follows).
+  - JOINs: Combining data from multiple tables based on relationships (e.g., joining users and posts to see who posted what).
+  - Subqueries: Using nested queries to answer more complex questions (e.g., finding users who have liked the most posts).
+  
+- Data analysis:
+  - Aggregate functions: Using functions like COUNT, SUM, AVG to summarize data (e.g., calculating average number of likes per post).
+- Data Management:
+  - Familiarity with data types like INT, VARCHAR, DATE, etc. to ensure proper data manipulation.
+- Basic Administration:
+  - Connecting to a MySQL server: Using tools like MySQL Workbench to connect and interact with the database.
+
 
 ### Technology:
 MySQL.
@@ -77,31 +89,31 @@ MySQL.
 
 - Review the Data Exploration MySql Script: [Here](https://github.com/beautyabedin/Operation-Analystics-and-Invetigating-Metric-Spike-Investing/blob/main/Operation_Analysis_Code.sql)
 
-- **Presentation:** [Here](https://github.com/beautyabedin/Operation-Analystics-and-Invetigating-Metric-Spike-Investing/blob/main/Operation%20Analytics%20and%20Investigating%20Metric%20Spike.pdf)
+- Presentation: [Here](https://github.com/beautyabedin/Operation-Analystics-and-Invetigating-Metric-Spike-Investing/blob/main/Operation%20Analytics%20and%20Investigating%20Metric%20Spike.pdf)
 
 ### Description:
 This project aims to analyze operational data and investigate sudden spikes in key metrics within the investing domain. By leveraging various data analysis techniques and tools, this project provides valuable insights to enhance investment strategies, optimize operational efficiency, and identify anomalies.
 
---- **Number of jobs reviewed:** Amount of jobs reviewed over time.
+-- **Number of jobs reviewed:** Amount of jobs reviewed over time.
 
---- **Throughput:** It is the no. of events happening per second.
+-- **Throughput:** It is the no. of events happening per second.
 
---- **Percentage share of each language:** Share of each language for different contents.
+-- **Percentage share of each language:** Share of each language for different contents.
 
---- **Duplicate rows:** Rows that have the same value present in them.
+-- **Duplicate rows:** Rows that have the same value present in them.
 
---- **User Engagement:** To measure the activeness of a user. Measuring if the user finds quality in a product/service.
+-- **User Engagement:** To measure the activeness of a user. Measuring if the user finds quality in a product/service.
 
---- **User Growth:** Amount of users growing over time for a product.
+-- **User Growth:** Amount of users growing over time for a product.
 
---- **Weekly Retention:** Users getting retained weekly after signing-up for a product.
+-- **Weekly Retention:** Users getting retained weekly after signing-up for a product.
 
---- **Weekly Engagement:** To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
+-- **Weekly Engagement:** To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
 
---- **Email Engagement:** Users engaging with the email service.
+-- **Email Engagement:** Users engaging with the email service.
 
 ### Skills:
-data analysis.
+Data Manipulation, Data analysis, Data Management.
 
 ### Technology:
 MySQL.
@@ -110,7 +122,7 @@ MySQL.
 
 - Review Excel Project: [Here](https://github.com/beautyabedin/Hiring-Process-Analysis/blob/main/Hiring%20Process%20Analysis.xlsx)
 
-- **Presentation:** [Here](https://github.com/beautyabedin/Hiring-Process-Analysis/blob/main/Hiring%20Process%20Analytics%20.pdf)
+- Presentation: [Here](https://github.com/beautyabedin/Hiring-Process-Analysis/blob/main/Hiring%20Process%20Analytics%20.pdf)
 
 ![image](https://github.com/user-attachments/assets/8c5a9e00-e56a-42d8-8b3c-621f602f7af9)  ![image](https://github.com/user-attachments/assets/11890c30-fd1a-4dee-8fa6-a9ecc9c2e11e)
 ![image](https://github.com/user-attachments/assets/8c19aad3-56fc-4fde-9f3d-349d8b93913b)
@@ -124,16 +136,16 @@ number of hires, number of rejections, number of interviews, types of jobs, vaca
 After that I use some Excel function, mathematical and statistical function, pivot table to get required data, I create some graphs like Bar grapes, Column grapes to get more visualized data.
 
 ### Skills:
-data cleaning, Excel funtion, mathematical and statistical function, *pivot table* to get required data, I create some graphs like *Bar grapes*, *Column grapes* to get more visualized data.
+Data cleaning, Excel funtion, Mathematical and Statistical function, *Pivot table* to get required data, I create some graphs like *Bar grapes*, *Column grapes* to get more visualized data.
 
 ### Technology:
-MyExcel, Excel funtion, Mathematical and Statistical function, pivort table.
+MyExcel, Excel funtion, Mathematical and Statistical function, Pivort table.
 
 ## [Vrinda-Store Analysis](https://github.com/beautyabedin/Vrinda-Store-Analysis)
 
 * Review Excel Project: [Here](https://github.com/beautyabedin/Vrinda-Store-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis%20Project.xlsx)
   
-### Dashboad:
+### Dashboard:
 
 ![image](https://github.com/user-attachments/assets/307120a3-2a5f-43bc-b271-b98de11c421d)
 
@@ -148,10 +160,10 @@ This project contains a collection of data analysis projects aimed at providing 
 
 
 ### Skills:
-data cleaning, Excel funtion, mathematical and statistical function, **pivot table** to get required data, I create some graphs like *Bar grapes*, *Column grapes* to get more visualized data.
+Data cleaning, Excel funtion, Mathematical and Statistical function, **Pivot table** to get required data, I create some graphs like *Bar grapes*, *Column grapes* to get more visualized data.
 
 ### Technology:
-MyExcel, Excel funtion, Mathematical and Statistical function, **pivort table**, **dashboad**.
+MyExcel, Excel funtion, Mathematical and Statistical function, **pivort table**, **Dashboard**.
 
 ## [Diwali Sales Analysis](https://github.com/beautyabedin/Diwali-Sales-Analysis/tree/main)
 
