@@ -26,7 +26,11 @@ Hi, I'm Beauty Abedin. I have an background in mathematical and statistical. I h
   
 - [Portfolio](#portfolio)
   
-   - MySql projects:
+   - MySQL and Python Project:
+
+      1.[E-commerce Sales Analysis:](https://github.com/beautyabedin/E-commerce-Sales-Analysis)
+  
+   - MySQL projects:
      
        1.[Instagram Clone Data Analysis Project](https://github.com/beautyabedin/INSTAGRAM-USER-ANALYTICS)
      
@@ -48,6 +52,51 @@ Hi, I'm Beauty Abedin. I have an background in mathematical and statistical. I h
 In this section I will list data analytics projects briefly describing the technology stack used to solve case
 
 ## Following are my projects in SQL, Python, Power BI & Excel:
+
+### [E-commerce Sales Analysis:](https://github.com/beautyabedin/E-commerce-Sales-Analysis)
+
+  - Review the Data Exploration MySql Script: [Here](https://github.com/beautyabedin/E-commerce-Sales-Analysis/blob/main/E-commerce%20Sales%20Analysis.sql)
+  - Review the Data Exploration Python NoteBook: [Here](https://github.com/beautyabedin/E-commerce-Sales-Analysis/blob/main/E-commerce%20Sales%20Analysis.ipynb)
+
+![image](https://github.com/user-attachments/assets/7bc36a04-4728-464e-b604-ba177d41f61d)
+
+![image](https://github.com/user-attachments/assets/218adc6e-2858-4e7c-b239-136b739f9434) ![image](https://github.com/user-attachments/assets/268bf419-97c6-4c1a-9cbe-327f0e8f9b9e)
+
+## Description
+The E-commerce Sales Data Analysis Project is designed to provide in-depth insights into the sales performance of an online retail business. The project leverages a dataset containing comprehensive sales records, including information on products, customers, transactions, and geographic locations. The primary goals are to clean and preprocess the data, perform exploratory data analysis (EDA), create meaningful visualizations, and build predictive models to forecast future sales trends.
+
+### Objectives
+  - Data Cleaning and Preprocessing:
+  - Exploratory Data Analysis (EDA):
+  - Data Visualization:
+  - Business Insights:
+    
+### Key Analysis Areas
+- Sales Trends:Analyze sales performance over different time periods (daily, monthly, yearly).
+Identify peak sales periods and seasonal trends.
+
+- Customer Analysis:Examine customer demographics and purchasing behavior.
+Segment customers based on their buying patterns.
+
+- Product Analysis:Determine top-selling products and categories.
+Assess product performance and profitability.
+
+- Geographical Analysis:Analyze sales distribution across different regions.
+Identify key markets and potential areas for expansion.
+
+### Tools and Technologies
+
+- Languages: Python, MySQL
+- Data Analysis Libraries: Pandas, NumPy
+- Data Visualization Libraries: Matplotlib, Seaborn, Plotly
+- Machine Learning Libraries: Scikit-learn
+- Development Environment: Jupyter Notebook, MySQL Workbanch
+- Version Control: Git
+  
+### Conclusion
+This project aims to transform raw e-commerce sales data into valuable business insights through rigorous data analysis and modeling techniques. By understanding the factors driving sales and customer behavior, businesses can make informed decisions to enhance their strategies, improve customer satisfaction, and boost overall sales performance.
+
+
 
 ### [Instagram Clone Data Analysis Project](https://github.com/beautyabedin/INSTAGRAM-USER-ANALYTICS)
 
