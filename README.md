@@ -46,7 +46,7 @@ Hi, I'm Beauty Abedin. I have an background in mathematical and statistical. I h
 
        1.[Diwali Sales Analysis](https://github.com/beautyabedin/Diwali-Sales-Analysis/tree/main)
 - [My Website](https://beautyabedin.github.io/)
-- [Resume](bit.ly/resume251)
+- [Resume](https://bit.ly/resume251)
 - [Contacts](#contacts)
 
 # Portfolio
