@@ -56,6 +56,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### [E-commerce Sales Analysis:](https://github.com/beautyabedin/E-commerce-Sales-Analysis)
 
+![image](https://github.com/user-attachments/assets/23caefb3-f988-41cb-964e-1f97e5324603)
+
   - Review the Data Exploration MySql Script: [Here](https://github.com/beautyabedin/E-commerce-Sales-Analysis/blob/main/E-commerce%20Sales%20Analysis.sql)
   - Review the Data Exploration Python NoteBook: [Here](https://github.com/beautyabedin/E-commerce-Sales-Analysis/blob/main/E-commerce%20Sales%20Analysis.ipynb)
 
